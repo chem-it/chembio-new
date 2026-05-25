@@ -1,116 +1,112 @@
-schema: "hugoblox/author/v1"
-slug: "me"
+schema: hugoblox/author/v1
+slug: me
 is_owner: true
 name:
-  display: "Dr. Stephan Scheeff"
-  given: "Stephan"
-  family: "JScheeff"
-  alternate: ""
-  pronunciation: ""
-postnominals:
-  - "PhD"
-  - "MIEEE"
+  display: Stephan Scheeff
+  given: Stephan
+  family: Scheeff
+  alternate: ''  
+  pronunciation: ''  
+  pronouns: ''
+postnominals: []
 status:
-role: "Senior AI Research Scientist"
-bio: "Alex Johnson is a Senior AI Research Scientist at Meta AI. His research
+  icon: ""  # You had this commented out originally
+role: Research Associate in Medicinal Chemistry Projects
+bio: |
+  My name is Stephan Scheeff, and I am a chemist working on the design and synthesis of antiviral compounds. Since 2021, I have been engaged in research on nucleoside analogues as part of the research group led by Prof. Billy Ng at the Chinese University of Hong Kong. For this work I was awarded with the Hong Kong Postdoctoral Fellowship 2022/2023.
 
-  has been published in top conferences like NeurIPS and ICML, with over
+  Aside from conducting research, I enjoy exploring the countryside and culture in Hong Kong and follow my passion for photography.
 
-  10,000 citations. Alex is passionate about pushing the boundaries of AI
-
-  while ensuring ethical development.\n"
 affiliations:
-  - name: "Meta AI"
-    url: "https://ai.meta.com/"
+  - name: Chinese University of Hong Kong
+    url: https://www.cuhk.edu.hk/
+
 links:
-  - icon: "at-symbol"
-    url: "mailto:alex.johnson@example.com"
-    label: "E-mail Me"
-  - icon: "brands/x"
-    url: "https://x.com/example"
-  - icon: "brands/github"
-    url: "https://github.com/example"
-  - icon: "brands/linkedin"
-    url: "https://www.linkedin.com/in/example/"
-  - icon: "academicons/google-scholar"
-    url: "https://scholar.google.com/citations?user=example"
-  - icon: "academicons/orcid"
-    url: "https://orcid.org/0000-0002-1825-0097"
+  - icon: at-symbol
+    url: mailto:stephanscheeff@cuhk.edu.hk
+    label: Email
+  - icon: academicons/orcid
+    url: https://orcid.org/0000-0001-7791-9670
+  - icon: brands/mastodon
+    url: https://fediscience.org/@chem_synthesis
+  - icon: brands/linkedin
+    url: https://www.linkedin.com/in/stephanhk/
+
 interests:
-  - "Large Language Models"
-  - "Computer Vision"
-  - "Reinforcement Learning"
-  - "AI Ethics"
+  - Drug Discovery
+  - Antiviral Drugs
+  - Total Synthesis
+
 education:
-  - area: Total Synthesis of Natural Products - Dr. rer. nat. (equivalent to PhD)
+  - degree: Dr. rer. nat. (equivalent to PhD) in Total Synthesis of Natural Products
     institution: University of Bonn
-    date_start: 2015-01-01
-    date_end: 2018-09-01
+    start: 2015-01-01
+    end: 2018-09-01
     summary: |
       During my time at the University of Bonn, I participated in the research group of Professor Dirk Menche, where I contributed to the total synthesis of polyketide natural products.
     button:
-      text: 'Read Thesis (in german)'
-      url: 'https://bonndoc.ulb.uni-bonn.de/xmlui/handle/20.500.11811/7629'
-  - area: Organic Chemistry - Diplom in Chemistry
+      text: Read Thesis (in german)
+      url: https://bonndoc.ulb.uni-bonn.de/xmlui/handle/20.500.11811/7629
+  - degree: Diplom in Chemistry in Organic Chemistry
     institution: Humboldt University of Berlin
-    date_start: 2008-09-01
-    date_end: 2014-05-01
+    start: 2008-09-01
+    end: 2014-05-01
     summary: |
       I completed a 5-year study program at the Humboldt University in Berlin. For my thesis, I conducted research in the group of Professor Rainer Mahrwald, focusing on organocatalytic Aldol condensations.
+
 experience:
-  - role: "Senior AI Research Scientist"
-    org: "Meta AI"
-    start: "2020-01-01"
-    summary: "Leading research on multimodal AI systems. Contributed to Llama 2 and other open-source models.\n"
-    button:
-      text: "View portfolio"
-      url: "/"
-      icon: "hero/arrow-down-tray"
-  - role: "AI Research Intern"
-    org: "OpenAI"
-    start: "2019-06-01"
-    end: "2019-12-31"
-    summary: "Worked on GPT-3 scaling. Co-authored paper on prompt engineering.\n"
+  - role: Post-Doctoral Fellow
+    org: Chinese University of Hong Kong
+    start: 2021-11-01
+    end: ""
+    summary: |
+      Design and synthesis of novel nucleoside analogs for antiviral purposes together with Prof Billy Ng (School of Pharmacy).
+  - role: Post-Doctoral Fellow
+    org: University of Hong Kong
+    start: 2018-10-01
+    end: 2021-10-31
+    summary: |
+      Development of synthetic novel methods in the field of reductive copper catalyzed transformations in the research group of Prof Pauline Chiu (Department of Chemistry).
+  - role: Research Assistant
+    org: Dresden University of Technology
+    start: 2018-03-01
+    end: 2018-09-30
+    summary: |
+      Total synthesis of natural products together with Prof Peter Metz (Department of Chemistry).
+
 skills:
   - name: Science
     items:
-      - name: Research & Labwork
-        description: ''
-        percent: 100
-        icon: hero/beaker
-      - name: Grant Writing
-        description: ''
-        percent: 100
-        icon: hero/pencil-square
-      - name: Mentoring
-        description: ''
-        percent: 100
-        icon: hero/academic-cap
+      - label: Research & Labwork
+        level: 5
+      - label: Grant Writing
+        level: 5
+      - label: Mentoring
+        level: 5
   - name: Hobbies
-    color: '#eeac02'
-    color_border: '#f0bf23'
     items:
-      - name: Hiking
-        description: ''
-        percent: 100
-        icon: person-simple-walk
-      - name: Photography
-        description: ''
-        percent: 80
-        icon: camera
+      - label: Hiking
+        level: 5
+      - label: Photography
+        level: 4
+
 languages:
-  - name: "German"
+  - name: German
     level: 5
-    label: "Native"
-  - name: "English"
+    label: ""
+  - name: English
+    level: 5
+    label: ""
+  - name: Cantonese
     level: 4
-    label: "Fluent"
-  - name: "Cantonese"
-    level: 3
-    label: "Upper Advanced"
-awards:
+    label: ""
+  - name: French
+    level: 2
+    label: ""
+
 awards:
   - title: Hong Kong Post Doctoral Fellowship 2022/2023
-    url: https://www.ugc.edu.hk/eng/rgc/funding_opport/pdfs/
-    date: '2023-04-01'
-    awarder: Hong Kong University Grants Comittee
+    awarder: Hong Kong University Grants Committee
+    date: "2023-04-01"
+    summary: ""
+    icon: ""
