@@ -11,9 +11,9 @@ name:
 postnominals: []
 status:
   icon: ""  # You had this commented out originally
-role: Research Associate in Medicinal Chemistry Projects
+role: Research Associate in Medicinal Chemistry
 bio: |
-  My name is Stephan Scheeff, and I am a chemist working on the design and synthesis of antiviral compounds. Since 2021, I have been engaged in research on nucleoside analogues as part of the research group led by Prof. Billy Ng at the Chinese University of Hong Kong. For this work I was awarded with the Hong Kong Postdoctoral Fellowship 2022/2023.
+ I'm working in the field of Medicinal Chemistry on the design and synthesis of novel antiviral and anticancer compounds. Since 2021, I have been engaged in research on nucleoside analogues as part of the research group led by Prof. Billy Ng at the Chinese University of Hong Kong. For this work I was awarded with the Hong Kong Postdoctoral Fellowship 2022/2023.
 
   Aside from conducting research, I enjoy exploring the countryside and culture in Hong Kong and follow my passion for photography.
 
@@ -38,7 +38,7 @@ interests:
   - Total Synthesis
 
 education:
-  - degree: Dr. rer. nat. (equivalent to PhD) in Total Synthesis of Natural Products
+  - degree: Dr. rer. nat. (Chemistry, equivalent to PhD)
     institution: University of Bonn
     start: 2015-01-01
     end: 2018-09-01
@@ -55,13 +55,13 @@ education:
       I completed a 5-year study program at the Humboldt University in Berlin. For my thesis, I conducted research in the group of Professor Rainer Mahrwald, focusing on organocatalytic Aldol condensations.
 
 experience:
-  - role: Post-Doctoral Fellow
+  - role: Post-Doctoral Fellow/Research Associate
     org: Chinese University of Hong Kong
     start: 2021-11-01
     end: ""
     summary: |
-      Design and synthesis of novel nucleoside analogs for antiviral purposes together with Prof Billy Ng (School of Pharmacy).
-  - role: Post-Doctoral Fellow
+      Design and synthesis of novel nucleoside analogs for antiviral purposes together with Prof Billy Ng (School of Pharmacy). Late-stage functionalisation of complex natural products.
+  - role: Post-Doctoral Fellow/Research Associate
     org: University of Hong Kong
     start: 2018-10-01
     end: 2021-10-31
@@ -88,25 +88,26 @@ skills:
       - label: Hiking
         level: 5
       - label: Photography
-        level: 4
+        level: 5
 
 languages:
   - name: German
     level: 5
-    label: ""
+    label: "Native"
   - name: English
     level: 5
-    label: ""
+    label: "Fluent"
   - name: Cantonese
-    level: 4
-    label: ""
+    level: 3.5
+    label: "Upper Advanced"
   - name: French
     level: 2
-    label: ""
+    label: "Beginner"
 
 awards:
   - title: Hong Kong Post Doctoral Fellowship 2022/2023
     awarder: Hong Kong University Grants Committee
     date: "2023-04-01"
-    summary: ""
+    summary: "Awarded by the Hong Kong University Grants Committee, this prestigious 36-month fellowship aimed to attract top early-career researchers to Hong Kong's UGC-funded universities. In the 2022/23 cycle, 50 fellowships were awarded. "
     icon: ""
+    url: https://www.ugc.edu.hk/eng/rgc/funding_opport/pdfs/

@@ -12,13 +12,13 @@ sections:
       username: me
       text: ''
       # Show a call-to-action button under your biography? (optional)
-      button:
-        text: Download CV
-        url: uploads/resume.pdf
+      #button:
+      #  text: Download CV
+      #  url: uploads/resume.pdf
       headings:
-        about: ''
-        education: ''
-        interests: ''
+        about: 'Test'
+        education: 'Test2'
+        interests: 'test3'
     design:
       # Use the new Gradient Mesh which automatically adapts to the selected theme colors
       background:
@@ -35,14 +35,10 @@ sections:
         shape: circle # Options: circle (default), square, rounded
   - block: markdown
     content:
-      title: '📚 My Research'
+      title: 'My Research'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
-
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
-
-        Please reach out to collaborate 😃
+      Inspired by natural products, their biosynthesis and impact in medicinal chemistry, I started to gain a better insight in the total synthesis of these unique molecules. After my diploma thesis in the field of organocatalysis under supervision of Prof Rainer Mahrwald (HU Berlin), I continued with the total synthesis of complex polyketides during my PhD thesis under supervision of Prof Dirk Menche (University of Bonn). After a short research stay at the TU Dresden at Prof Peter Metz's Lab, I was able to join the group of Prof Pauline Chiu at Hong Kong University and I am now Postdoc at the research group of Prof Billy Ng at the Chinese University of Hong Kong.
     design:
       columns: '1'
   - block: collection
@@ -66,15 +62,15 @@ sections:
         exclude_featured: false
     design:
       view: citation
-  - block: collection
-    id: talks
-    content:
-      title: Recent & Upcoming Talks
-      filters:
-        folders:
-          - events
-    design:
-      view: card
+#  - block: collection
+#    id: talks
+#    content:
+#      title: Recent & Upcoming Talks
+#      filters:
+#        folders:
+#          - events
+#    design:
+#      view: card
   - block: collection
     id: news
     content:
@@ -105,7 +101,7 @@ sections:
       spacing:
         padding: [0, 0, 0, 0]
   - block: cta-card
-    demo: true # Only display this section in the HugoBlox Kit demo site
+    demo: false # Only display this section in the HugoBlox Kit demo site
     content:
       title: 👉 Build your own academic website like this
       text: |-
