@@ -38,7 +38,7 @@ sections:
       title: 'My Research'
       subtitle: ''
       text: |-
-      Inspired by natural products, their biosynthesis and impact in medicinal chemistry, I started to gain a better insight in the total synthesis of these unique molecules. After my diploma thesis in the field of organocatalysis under supervision of Prof Rainer Mahrwald (HU Berlin), I continued with the total synthesis of complex polyketides during my PhD thesis under supervision of Prof Dirk Menche (University of Bonn). After a short research stay at the TU Dresden at Prof Peter Metz's Lab, I was able to join the group of Prof Pauline Chiu at Hong Kong University and I am now Postdoc at the research group of Prof Billy Ng at the Chinese University of Hong Kong.
+        Inspired by natural products, their biosynthesis and impact in medicinal chemistry, I started to gain a better insight in the total synthesis of these unique molecules. After my diploma thesis in the field of organocatalysis under supervision of Prof Rainer Mahrwald (HU Berlin), I continued with the total synthesis of complex polyketides during my PhD thesis under supervision of Prof Dirk Menche (University of Bonn). After a short research stay at the TU Dresden at Prof Peter Metz's Lab, I was able to join the group of Prof Pauline Chiu at Hong Kong University and I am now Postdoc at the research group of Prof Billy Ng at the Chinese University of Hong Kong.
     design:
       columns: '1'
   - block: collection
@@ -101,7 +101,7 @@ sections:
       spacing:
         padding: [0, 0, 0, 0]
   - block: cta-card
-    demo: false # Only display this section in the HugoBlox Kit demo site
+    demo: true # Only display this section in the HugoBlox Kit demo site
     content:
       title: 👉 Build your own academic website like this
       text: |-
