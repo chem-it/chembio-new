@@ -4,7 +4,7 @@ authors:
 - Xiaoding Jiang
 - Xu He
 - Jonathan Wong
-- Stephan Scheeff
+- me
 - Sam Chun-Kit Hau
 - Tak Hin Wong
 - Yao Qin
@@ -22,11 +22,11 @@ authors:
 - Ho Ko
 - Kim Hei-Man Chow
 - Billy Wai-Lung Ng
-date: '2024-09-01'
+date: '2024-09-23'
 publishDate: '2026-05-26T13:41:24.850915Z'
 publication_types:
 - article-journal
-publication: '*JACS Au*'
+publication: '*JACS Au* **2024**, *4*, 9, 3537–3546'
 abstract: Precise transformations of natural products (NPs) can fine-tune their physicochemical
   properties while preserving inherently complex and evolutionarily optimized parent
   scaffolds. Here, we report an unprecedented lactone-to-lactam transformation on
@@ -39,4 +39,16 @@ abstract: Precise transformations of natural products (NPs) can fine-tune their 
   expression of glutathione peroxidase 4 (GPX4) in brain cells. This study highlights
   that even subtle changes on NP scaffolds can confer new pharmacological properties,
   inspiring the exploration of simple yet critical transformations on complex NPs.
+tags:
+  - Skeletal Editing
+  - Natural Products
+  - Medicinal Chemistry
+  - Organic Chemistry
+# Display this page in the Featured widget?
+featured: false
+# Standard identifiers for auto-linking
+hugoblox:
+  ids:
+    doi: "10.1021/jacsau.4c00416"
+projects: [Molecular Editing of Natural Products]
 ---
