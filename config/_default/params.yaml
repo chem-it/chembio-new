@@ -4,10 +4,10 @@ hugoblox:
     name: Dr. Stephan Scheeff
     type: person
     tagline: " Research Associate in Medicinal Chemistry Projects"
-    description: My name is Stephan Scheeff, and I am a chemist working on the design and synthesis of antiviral compounds. Since 2021, I have been engaged in research on nucleo
+    description: Dr Stephan Scheeff is a Research Associate in Medicinal Chemistry Projects at the Chinese University of Hong Kong.
   theme:
     mode: system
-    pack: default
+    pack: retro
     colors:
       primary: ""
       secondary: ""
