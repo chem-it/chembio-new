@@ -14,7 +14,7 @@ sections:
       title: 'Welcome'
       subtitle: ''
       text: |-
-        ![Skyline of HK at night](/images/landing.jpg)
+        ![Skyline of HK at night](landing.jpg)
 
         ## Exploring Science, Nature and Culture
 

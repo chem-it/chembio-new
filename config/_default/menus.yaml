@@ -20,5 +20,5 @@ main:
     url: '/cv'
     weight: 50
   - name: Publications
-    url: '/publication'
+    url: '/publications'
     weight: 60

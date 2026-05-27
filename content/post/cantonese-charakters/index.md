@@ -23,7 +23,7 @@ For an example, let's look at the Cantonese sentence 我住喺香港, which mean
 
 When you learn Chinese as a second language, you rely heavily on a romanisation system. Although there is no official romanisation system, a number of them have been established by linguists and used in teaching Cantonese as a second language.
 
-![Write Chinese Characters](/images/calligraphy.jpg)
+![Write Chinese Characters](calligraphy.jpg)
 <small>*Credit: Raychan [@unsplash](https://unsplash.com/de/fotos/schwarz-weisses-kanji-kalligrafie-poster-auf-schwarzem-tisch-cKDOH_R74tA)*</small>
 
 ## Why do I need to learn the Characters?
