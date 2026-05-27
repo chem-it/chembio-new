@@ -14,9 +14,9 @@ sections:
       title: ''
       subtitle: ''
       text: |-
-        ![Skyline of HK at night](landing.jpg)
-
         ## Exploring Science, Nature and Culture
+        
+        ![Skyline of HK at night](landing.jpg)
 
         I am researcher currently in the field of developing novel antivirals. On this page I will share my latest insights and perspectives on antiviral research, medicinal chemistry and organic chemistry. Currently based in the vibrant city of Hong Kong, I am eager to learn more about the local Cantonese culture. Therefore, I am not only exploring the city, but also traveling around Guangdong and learning Cantonese. 
         
