@@ -28,9 +28,9 @@ abstract: |
 
 #summary: "One-line takeaway for readers skimming listings."
 tags:
+  - Medicinal Chemistry
   - OGTAC
   - Bifunctional Molecules
-  - Medicinal Chemistry
 # Display this page in the Featured widget?
 featured: false
 # Standard identifiers for auto-linking

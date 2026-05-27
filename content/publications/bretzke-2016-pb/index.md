@@ -21,9 +21,9 @@ abstract: |
 
 #summary: "One-line takeaway for readers skimming listings."
 tags:
+  - Total Synthesis
   - Natural Products
   - Organic Chemistry
-  - Total Synthesis
 # Display this page in the Featured widget?
 featured: false
 # Standard identifiers for auto-linking

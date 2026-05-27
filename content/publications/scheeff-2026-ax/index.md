@@ -14,8 +14,8 @@ publication_types:
 publication: '*Isr. J. Chem.* **2026**, *66*, e70017'
 abstract: Carbohydrates are integral to drug discovery, serving as versatile templates for the development of small‐molecule therapeutics. However, their success in antiviral, anticancer, and antidiabetic therapy is not immediatly apparent, as they have long been considered challenging building blocks. On the one hand, their high density of stereocenters and evolutionarily shaped conformations make them ideal targets for drug development. On the other hand, this promiose is counterbalanced by challenges in synthesis stability, and pharmacokinetics. In this review, we examine how advances in synthetic strategies have accelerated carbohydrate drug development. We discuss successful drug candidates that exemplify strategic design principles, such as the prodrug concept, late‐stage functionalization, and the formation of more stable metabolites (for example, C‐glycosides). We highlight how these approaches were optimized for effective medicines, considering both industrial‐scale manufacturing routes and academic innovations. Finally, we link synthetic methods to clinical translation by summarizing therapeutic potential and relevant clinical trials.
 tags:
-  - Medicinal Chemistry
   - Review
+  - Medicinal Chemistry
 # Display this page in the Featured widget?
 featured: false
 # Standard identifiers for auto-linking

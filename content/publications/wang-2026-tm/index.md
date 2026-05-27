@@ -23,8 +23,8 @@ abstract: Late-stage diversification of complex natural products enables rapid a
   lactam scaffolds. This work expands the accessible chemical space of bilobalide
   for future biological exploration.
 tags:
+  - Molecular Editing
   - Organic Chemistry
-  - Skeletal Editing
   - Natural Products
 # Display this page in the Featured widget?
 featured: true

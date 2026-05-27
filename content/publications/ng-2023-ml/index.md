@@ -12,8 +12,8 @@ publication: '*Elife* **2023**, 12:e88044.'
 abstract: Understanding how to harden liquid condensates produced by influenza A virus
   could accelerate the development of novel antiviral drugs.
 tags:
-  - Medicinal Chemistry
   - Antivirals
+  - Medicinal Chemistry
 # Display this page in the Featured widget?
 featured: false
 # Standard identifiers for auto-linking

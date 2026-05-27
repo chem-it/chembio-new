@@ -40,7 +40,7 @@ abstract: Precise transformations of natural products (NPs) can fine-tune their 
   that even subtle changes on NP scaffolds can confer new pharmacological properties,
   inspiring the exploration of simple yet critical transformations on complex NPs.
 tags:
-  - Skeletal Editing
+  - Molecular Editing
   - Natural Products
   - Medicinal Chemistry
   - Organic Chemistry
