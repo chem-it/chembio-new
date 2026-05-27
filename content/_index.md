@@ -11,7 +11,7 @@ design:
 sections:
   - block: markdown
     content:
-      title: 'Welcome'
+      title: ''
       subtitle: ''
       text: |-
         ![Skyline of HK at night](landing.jpg)

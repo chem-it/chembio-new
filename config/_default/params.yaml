@@ -6,8 +6,8 @@ hugoblox:
     tagline: " Research Associate in Medicinal Chemistry Projects"
     description: Dr Stephan Scheeff is a Research Associate in Medicinal Chemistry Projects at the Chinese University of Hong Kong.
   theme:
-    mode: system
-    pack: retro
+    mode: light
+    pack: minimal
     colors:
       primary: ""
       secondary: ""
