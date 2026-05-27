@@ -50,5 +50,6 @@ featured: false
 hugoblox:
   ids:
     doi: "10.1021/jacsau.4c00416"
-projects: [Molecular Editing of Natural Products]
+projects:
+- molecular-editing
 ---

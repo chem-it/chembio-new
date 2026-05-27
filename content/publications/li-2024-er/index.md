@@ -26,6 +26,5 @@ featured: false
 hugoblox:
   ids:
     doi: "10.1002/chem.202401485"
+---
 
----
----
