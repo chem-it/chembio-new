@@ -2,7 +2,7 @@
 title: 'Molecular editing of bilobalide: Regioselective C-ring lactam formation'
 authors:
 - Wenjing Wang
-- Stephan Scheeff
+- me
 - Sam Chun-Kit Hau
 - Yao Qin
 - Chanin Sillapachaiyaporn

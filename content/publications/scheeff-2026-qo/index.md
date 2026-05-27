@@ -1,7 +1,7 @@
 ---
 title: Antiviral profiling and cellular activation of carbobicyclic nucleoside analogues
 authors:
-- Stephan Scheeff
+- me
 - Joan Marie Javillo Baguio
 - Benny Zhibin Liang
 - Josefina Xeque Amada
