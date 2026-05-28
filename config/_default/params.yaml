@@ -1,7 +1,7 @@
 hugoblox:
   schema: "2.0"
   identity:
-    name: Dr. Stephan Scheeff
+    name: Stephan Scheeff
     type: person
     tagline: " Research Associate in Medicinal Chemistry Projects"
     description: Dr Stephan Scheeff is a Research Associate in Medicinal Chemistry Projects at the Chinese University of Hong Kong.
@@ -15,7 +15,6 @@ hugoblox:
   typography:
     font: sans
     size: sm
-    textAlign: justify
   layout:
     radius: md
     spacing: comfortable
