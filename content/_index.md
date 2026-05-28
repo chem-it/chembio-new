@@ -26,6 +26,20 @@ sections:
         # Customize the section spacing. Order is top, right, bottom, left.
         padding: ['40px', '10px', '40px', '10px']
   - block: collection
+    content:
+      title: Selected Projects
+      text: My current and past projects in research and life.
+      filters:
+        folders:
+          - projects
+    design:
+      view: article-grid
+      fill_image: false
+      columns: 3
+      show_date: false
+      show_read_time: false
+      show_read_more: false
+  - block: collection
     id: news
     content:
       title: My latest thoughts

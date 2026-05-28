@@ -7,9 +7,6 @@ tags:
   - Medicincal Chemistry
 ---
 
-
-## Introduction and Clinical Need
-
 Viral diseases are an ever-present threat to public health, a reality the COVID-19 pandemic made painfully clear. While effective antiviral treatments exist for chronic diseases like HIV and hepatitis, many respiratory infections and neglected tropical diseases still have no systematic therapy available.
 
 ## Mechanism and Challenges of Nucleoside Analogues

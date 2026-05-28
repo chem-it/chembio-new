@@ -24,8 +24,7 @@ Recently, I had the opportunity to participate in such a project. In the researc
 
 By using its inherent structural isomerization pattern, it was possible to modify both the C ring and the D ring of the natural product. Interestingly, this transformation opens up novel targets and can profoundly alter the molecule's stability, permeability, and target engagement, making it a valuable strategy in natural product editing.
 
-> [!TIP]
-> For the first time, it is now possible to carefully alter the scaffold of bilobalide without losing its biological potential. While biological studies are underway, we are further exploring additional modification strategies.
+For the first time, it is now possible to carefully alter the scaffold of bilobalide without losing its biological potential. While biological studies are underway, we are further exploring additional modification strategies.
 
 ## Literature
 
