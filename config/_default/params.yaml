@@ -15,6 +15,7 @@ hugoblox:
   typography:
     font: sans
     size: sm
+    textAlign: justify
   layout:
     radius: md
     spacing: comfortable
