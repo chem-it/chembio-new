@@ -14,7 +14,7 @@ The pursuit of highly complex, scarce natural products demands significant timel
 
 It was precisely this intersection of structural complexity, intellectual challenge, and long-term scientific utility that drew me to the discipline.
 
-# The Architecture of Myxobacterial Polyketides
+## The Architecture of Myxobacterial Polyketides
 
 During my doctoral studies, I had the privilege of working under the guidance of Prof. Dirk Menche at the University of Bonn, a group known for tackling complex polyketides. Isolated predominantly from marine sponges, mollusks, and soil-dwelling myxobacteria, polyketides exhibit extraordinary structural diversity and potent biological activities against resistant pathogens and cancer cell lines.
 
@@ -22,7 +22,7 @@ From a biosynthetic perspective, polyketides are assembled through the repetitiv
 
 Among these, the archazolids—originally isolated from the myxobacterium Archangium gephyra—represent a particularly interesting class of targets. Functioning as potent inhibitors of the vacuolar-type ATPase (V-ATPase) proton pump, a molecular target deeply implicated in cancer cell survival and metastasis, their structure features a highly functionalized 24-membered macrolactone ring, a characteristic conjugated polyene side scaffold, and a dense array of stereogenic centers.
 
-# A Bioinspired Shortcut and the Total Synthesis of Archazolid F
+## A Bioinspired Shortcut and the Total Synthesis of Archazolid F
 
 Following the landmark total syntheses of archazolids A and B achieved by the Menche and Trauner groups, my doctoral research focused on a newly isolated variant: archazolid F. Structurally, archazolid F differs from archazolid B solely by the isomerization of a single double bond. Remarkably, this subtle geometric shift confers significantly enhanced biological potency, yet renders archazolid F exceptionally scarce in natural sources.
 
@@ -30,9 +30,16 @@ My investigation began not with an abstract synthetic blueprint, but with a fund
 
 Hypothesizing that an enzymatic double-bond migration occurs during biosynthesis, we sought to replicate this transformation chemically. We discovered that treating archazolid B with DBU effected a clean isomerization, smoothly transforming the readily available natural product into archazolid F. This biomimetic semisynthesis provided a rapid proof-of-principle and unequivocally confirmed the structural assignment of the natural product.
 
+![Isomerisation of archazolide B to F](arch-iso.png)
+
 However, a semisynthetic shortcut does not constitute a sustainable supply solution for downstream biological evaluation. A fully *de novo*, scalable, and modular total synthesis was required. Achieving this target demanded extensive strategic optimization. The cornerstone of our successful route relied on a precise Paterson aldol reaction to construct the critical stereocenters with high diastereoselectivity, followed by a late-stage ring-closing metathesis (RCM) to macrocyclize the 24-membered ring, ultimately securing a reliable synthetic pathway to archazolid F.
 
-# Function Through Simplification: Pharmacophore Dissection and Analog Design
+![Total synthesis of archazolid F](syn-archf.png)
+
+> [!NOTE]
+> The full total synthesis is shown in *Org. Lett.* **2019**, *21*, 1, 271–274 and [on my page](https://www.organicchemistry.eu/books/total-syntheses-of-natural-products/page/total-synthesis-of-archazolid-f-d-menche-2019)
+
+## Function Through Simplification: Pharmacophore Dissection and Analog Design
 
 With a modular total synthesis established, we turned our attention to a broader medicinal chemistry objective: *Can we systematically deconstruct and simplify the archazolid scaffold without sacrificing its subnanomolar biological activity?*
 
@@ -40,9 +47,14 @@ We hypothesized that while the macrocyclic core was indispensable for target rec
 
 The most surprising result comes from an analog we termed "archazolog" - a dramatically minimized derivative from which the entire southern thiazole side chain had been excised. To our delight, this minimalist variant completely retained subnanomolar antiproliferative activity, matching the potency of the complex parent natural product.
 
+![Archazolid analogue without side-chain](archazolog.png)
+
 Our studies revealed strict structural boundaries elsewhere in the molecule. The removal of a single methyl ether in the northern hemisphere led to a precipitous loss of potency, confirming its vital role in the binding locus. Furthermore, a linearized, ring-opened analogue proved virtually inactive, in accordance with the non-negotiable role of the macrocyclic conformation in organizing the pharmacophore.
 
-# Literature
+> [!NOTE]
+> The synthesis of archazolid analogues is shown in *J. Med. Chem.* **2020**, 63, 4, 1684–1698.
+
+## Literature
 
 Stephan Scheeff, Solenne Rivière, Johal Ruiz, Simon Dedenbach, Dirk Menche (2021). Modular total synthesis of iso-archazolids and archazologs. *J. Org. Chem.* **2021**, *86*, 15, 10190–10223.
 
