@@ -1,0 +1,10 @@
+github.com/Hanzei/hugo-component-osm v0.0.1 h1:F2FUyiN/xnxXgMtMdNJQPOYGbrNh68xC2sQL5WZBsds=
+github.com/Hanzei/hugo-component-osm v0.0.1/go.mod h1:OySqkzA+1zwxeo15W/1P33bytoq70+4Wx7TaLRVVxhs=
+github.com/HugoBlox/kit/modules/blox v0.0.0-20260502203050-b8ad5540288a h1:pjm3jWWDxgonaTRR/Rp7gD3ZELWTse0Un1nVksVGPaE=
+github.com/HugoBlox/kit/modules/blox v0.0.0-20260502203050-b8ad5540288a/go.mod h1:0F2Ss2NeylmaBP7+qx0U6zFPeMZ9NoLbAQakKXDqygo=
+github.com/HugoBlox/kit/modules/integrations/netlify v1.3.0 h1:OP7H3ZaN9cXQrGEzOXt2uD1IRD1MNFGbI5qIM75gth8=
+github.com/HugoBlox/kit/modules/integrations/netlify v1.3.0/go.mod h1:UuppRGml2K1EmlDkN+HemycohgZLjOy0QPGYOnoPnY4=
+github.com/HugoBlox/kit/modules/slides v1.3.0 h1:jMvtb0dtbXpN7PFol/sLt99ITJlVu8fFls5ZSnrIl7M=
+github.com/HugoBlox/kit/modules/slides v1.3.0/go.mod h1:/XTQAtd2KCiwg/GVMAoSzKPf/DYPVbAAEysmBdWgYu4=
+github.com/hugomods/images v0.12.3 h1:FiHZnFgbxn4SpxdY8harOxhYKA8WhAgibJoHhIe9sdU=
+github.com/hugomods/images v0.12.3/go.mod h1:U6Gwj16LKvk66rOMyGFrnF6f0aV8lT89lqOsckOAjYY=
