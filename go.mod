@@ -3,7 +3,12 @@ module github.com/HugoBlox/kit/templates/academic-cv
 go 1.19
 
 require (
-	github.com/HugoBlox/kit/modules/integrations/netlify v0.0.0-20260327032542-ef8ed449c7e8
 	github.com/HugoBlox/kit/modules/blox v0.0.0-20260502203050-b8ad5540288a
-	github.com/HugoBlox/kit/modules/slides v0.0.0-20260330182742-6a2f1ba2aeb5
+	github.com/HugoBlox/kit/modules/integrations/netlify v1.3.0
+	github.com/HugoBlox/kit/modules/slides v1.3.0
+)
+
+require (
+	github.com/Hanzei/hugo-component-osm v0.0.1 // indirect
+	github.com/hugomods/images v0.12.3 // indirect
 )
