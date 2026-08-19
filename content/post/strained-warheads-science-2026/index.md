@@ -1,6 +1,6 @@
 ---
 title: "Novel type warheads expand toolbox for covalent inhibitors"  
-summary:  Synthetic access to strained dicyclobutane sulfonamides enabled the discovery of novel covalent warheads.  
+summary:  Synthetic access to strained bicyclobutane sulfonamides enabled the discovery of novel covalent warheads.  
 date: 2026-08-19
 tags:
   - Medicinal Chemistry
@@ -13,7 +13,7 @@ Covalent inhibitors are a double-edged sword in drug discovery: on the one hand,
 
 Now, Justin M. Lopchuk and co-workers from the University of South Florida have reported a novel warhead for the covalent binding of cysteine in the magazin Science. Cysteine is one of the major nucleophiles targeted in covalent inhibitors. As a soft nucleophile, it is able to attack unsaturated esters/amides as well as many soft electrophiles (see the concept of hardness and softness of acids and bases HSAB for further reading). However, due to their reactive nature, introducing electrophilic positions in drugs can lead to nonspecific binding with many proteins, which increases the risk of cell toxicity and side effects.
 
-To better manage such side effects, more selective or diverse covalent binders are required to accelerate drug discovery. Ideally, they are introduced at a late stage to avoid *de novo* synthesis routes. Typically, sulfonamides — like other amides/esters — are synthesized by the coupling of a sulfonyl chloride or sulfonyl leaving group with an amine. However, in the case of the dicyclobutane sulfonyls, this strategy fails. Therefore, the researchers developed a novel method using a transamination strategy under acidic conditions with Lewis or Brønsted acid catalysis, followed by oxidation. This enables the clean synthesis of suitable dicyclobutane-sulfonamide warheads.
+To better manage such side effects, a diverse toolbox of covalent binders are required to accelerate drug discovery. Ideally, they are introduced at a late stage to avoid *de novo* synthesis routes. Typically, sulfonamides — like other amides/esters — are synthesized by the coupling of a sulfonyl chloride or sulfonyl leaving group with an amine. However, in the case of the bicyclobutane sulfonyls, this strategy fails. Therefore, the researchers developed a novel method using a transamination strategy under acidic conditions with Lewis or Brønsted acid catalysis, followed by oxidation. This enables the clean synthesis of suitable bicyclobutane-sulfonamide warheads.
 
 In further biological studies, the usefulness of these warheads was probed by benchmarking them against existing covalent binders. While their binding efficacy is slightly lower compared to that of unsaturated esters, their selectivity is improved. In their pilot study, an EGFR covalent binder showed drastically increased selectivity while largely maintaining activity.
 
