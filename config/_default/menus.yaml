@@ -19,6 +19,3 @@ main:
   - name: Bio
     url: '/cv'
     weight: 50
-  - name: Publications
-    url: '/publications'
-    weight: 60
