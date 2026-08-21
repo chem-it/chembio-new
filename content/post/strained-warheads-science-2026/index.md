@@ -2,11 +2,30 @@
 title: "Novel type warheads expand toolbox for covalent inhibitors"  
 summary:  Synthetic access to strained bicyclobutane sulfonamides enabled the discovery of novel covalent warheads.  
 date: 2026-08-19
+authors:
+  - me
+
 tags:
   - Medicinal Chemistry
   - Drug Discovery
   - Publication of the Week
   - Research
+
+cover:
+  image: "https://images.unsplash.com/photo-1557682250-33bd709cbe85?q=80&w=1600"
+  position:
+    x: 50
+    y: 40
+  overlay:
+    enabled: true
+    type: "gradient"
+    opacity: 0.4
+    gradient: "bottom"
+  fade:
+    enabled: true
+    height: "80px"
+  icon:
+    name: "✨"
 ---
 
 Covalent inhibitors are a double-edged sword in drug discovery: on the one hand, they can increase potency by binding to the protein of interest; on the other hand, they may increase side effects by binding non-selectively to other proteins. Only recently have they been accepted as a viable source of drugs, as the selectivity of these compounds could be improved.
