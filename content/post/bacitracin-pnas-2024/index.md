@@ -2,6 +2,8 @@
 title: "Structural Modifications Enhance Antibacterial Potency of Bacitracin"  
 summary: Researchers modified the structure of the established antibiotic bacitracin, leading to a 256-fold increase in activity and potent inhibition of vancomycin-resistant strains.
 date: 2024-07-13
+authors:
+  - me
 tags:
   - Medicinal Chemistry
   - PNAS

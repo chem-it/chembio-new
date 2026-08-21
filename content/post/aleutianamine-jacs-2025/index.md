@@ -2,6 +2,8 @@
 title: "Novel Synthetic Approach for the Synthesis of Pyrroloiminoquinones"  
 summary:  The total synthesis of aleutianamin was enabled by a new convergent coupling reaction.
 date: 2025-02-11
+authors:
+  - me
 tags:
   - Total Synthesis
   - Alkaloid

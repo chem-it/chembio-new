@@ -2,6 +2,8 @@
 title: "Synthesis of Quaternary Centres using Lithium Enolates in a Ru-catalysed Allylic substitution"  
 summary: The construction of quaternary centers via C-C bond formation is a significant challenge, but a new method reported in JACS, provides a promising approach to accessing these sterically crowded motifs.
 date: 2024-08-24
+authors:
+  - me
 tags:
   - Organic Synthesis
   - Chemistry

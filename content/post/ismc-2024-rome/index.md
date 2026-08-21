@@ -2,6 +2,8 @@
 title: "Personal Review: International Symposium on Medicinal Chemistry"  
 summary: Synthesis of stasseriolide natural products and their analogues using a ring-closing alkyne metathesis by Alois Fürstner and his team.
 date: 2024-09-10
+authors:
+  - me
 tags:
   - Research
   - Conference

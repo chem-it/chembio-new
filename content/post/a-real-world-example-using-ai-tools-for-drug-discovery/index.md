@@ -2,7 +2,7 @@
 title: "A Real World Example: Using AI Tools for Drug Discovery"
 summary: AstraZeneca’s recent HPK1 study demonstrates that generative AI can successfully discover novel, clinically viable chemical scaffolds, provided the algorithms are backed by extensive datasets and continuously guided by expert medicinal chemistry judgment.
 date: 2026-08-21
-draft: true
+
 image:
   caption: Credit or context (Markdown supported)
 authors:
@@ -25,3 +25,5 @@ Using this training data, REINVENT generated several novel scaffolds that were s
 The team also demonstrated REINVENT’s capability for scaffold hopping, diversifying the chemical space surrounding the initial hit compound. The authors highlighted this step as a vital risk-mitigation strategy, delivering viable backup scaffolds should the primary candidate fail in clinical trials.
 
 Ultimately, this case study offers a clear blueprint for integrating generative AI into drug discovery. While these models offer powerful structural ideation, they cannot replace human expertise; they must be continuously guided, filtered, and interpreted by experienced medicinal chemists. Success in AI-driven discovery will not rely on algorithms alone, but on the powerful combination of rich datasets, advanced modeling, and expert critical judgment.
+
+**Read more:** Generative AI-Assisted Discovery of HPK1 Inhibitors *Journal of Medicinal Chemistry* **2026** [doi:10.1021/acs.jmedchem.6c01048](https://doi.org/10.1021/acs.jmedchem.6c01048)

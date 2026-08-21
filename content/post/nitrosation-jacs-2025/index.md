@@ -2,6 +2,8 @@
 title: "Selective Nitrosation by Covalent Binder Strategy"  
 summary: A novel strategy for improving our understanding of, and ability to utilise, nitrosation as a post-translational modification.
 date: 2025-07-14
+authors:
+  - me
 tags:
   - Chemical Biology
   - JACS

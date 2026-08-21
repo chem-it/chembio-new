@@ -2,6 +2,8 @@
 title: "New Method for Skeletal Rearrangement Enhances the Organic Chemist's Toolbox"  
 summary: Acyl transposition in dihydrobenzofuranes describend by Richmond Sarpong in Science 
 date: 2025-05-09
+authors:
+  - me
 tags:
   - Skeletal Rearrangement
   - Science

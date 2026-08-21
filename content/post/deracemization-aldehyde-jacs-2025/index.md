@@ -2,6 +2,8 @@
 title: "Deracemisation lead to enriched alpha Amino Aldehydes"  
 summary:  Luo and coworkes from Tsinghua University report a novel method for deracemisation in JACS
 date: 2025-02-12
+authors:
+  - me
 tags:
   - Organic Chemistry
   - Deracemisation

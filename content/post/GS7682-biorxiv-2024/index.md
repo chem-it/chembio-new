@@ -2,6 +2,8 @@
 title: "Novel remdesivir type nucleoside analogue displays broad-spectrum antiviral activity"  
 summary: The development of a novel 4'-CN remdesivir-type nucleoside analogue demonstrating the potential of 4-aza-7,9-dideazaadenosine nucleoside analogues to exhibit antiviral activity.
 date: 2024-07-15
+authors:
+  - me
 tags:
   - Medicinal Chemistry
   - Antivirals

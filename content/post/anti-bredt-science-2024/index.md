@@ -2,6 +2,8 @@
 title: "Exploring Anti-Bredt Olefins as Reactive Intermediates"  
 summary: The access and the usage of anti-Bredt type olefins as intermediates are described in a new study in Science.
 date: 2024-11-10
+authors:
+  - me
 tags:
   - Organic Synthesis
   - Chemistry
