@@ -19,6 +19,6 @@ main:
   - name: Bio
     url: '/cv'
     weight: 50
-  - name: Organic Chemistry
+  - name: Book Project
     url: 'https://www.organicchemistry.eu'
     weight: 60
