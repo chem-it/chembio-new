@@ -1,7 +1,7 @@
 ---
 title: "Chemistry Research Updates: Late-Stage Functionalisation, Molecular Glue & Ketone Homologation"  
 summary:  Research highlights from week 36/2026 
-date: 2026-06-09
+date: 2026-09-06
 authors:
   - me
 
@@ -27,11 +27,11 @@ Using a photocatalyst (RFTA) and a stoichiometric oxidant (MnO~2~), the piperazi
 
 # Simple Thalidomide Analogue can degrade FIZ1
 
-In recent years, more and more so-called undruggable proteins have been successfully targeted by PROTACs and molecular glues. In this study, Heeseon An (Memorial Sloan Kettering Cancer Center), Stuart J. Conway (University of California), and co-workers have demonstrated that slightly modified thalidomide can selectively degrade FLT3-interacting zinc finger 1 (FIZ1).
+In recent years, more and more so-called undruggable proteins have been successfully targeted by PROTACs and molecular glues. In this *JACS* study, Heeseon An (Memorial Sloan Kettering Cancer Center), Stuart J. Conway (University of California), and co-workers have demonstrated that slightly modified thalidomide can selectively degrade FLT3-interacting zinc finger 1 (FIZ1).
 
 ![5-tert butyl thalidomade as selective degrader of FIZ1.](conway-thalidomide.png)
 
-Native thalidomide is a molecular glue which binds to CRBN and can induce proteasomal degradation of target proteins. This concept is widely applied in PROTAC-type drug discovery. However, even small substituents on thalidomide—such as the tert-butyl group in this report—can completely change the selectivity of the molecular glue. The researchers describe that proteomics profiling showed an extremely high selectivity towards FIZ1, an unexpected result for the team. Further downstream studies established the mechanism and the binding mode.
+Native thalidomide is a molecular glue which binds to CRBN and can induce proteasomal degradation of target proteins. This concept is widely applied in PROTAC-type drug discovery. However, even small substituents on thalidomide - such as the tert-butyl group in this report - can completely change the selectivity of the molecular glue. The researchers describe that proteomics profiling showed an extremely high selectivity towards FIZ1, an unexpected result for the team. Further downstream studies established the mechanism and the binding mode.
 
 **Read more:** P. J. Brennan, R. Guo, A. Ordureau, S. E. Singleton, M. Li, F. Albayrak, C. H. Chang, L. Y. Liao, C. M. Deane, K. N. Houk, M. M. Hann, L. L. Brayshaw, H. An, S. J. Conway *Journal American Chemical Society* **2026**, https://doi.org/10.1021/jacs.6c14185.
 
